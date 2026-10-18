@@ -1,0 +1,5 @@
+Name: Nurasyl
+Surname: Zhapsarbek
+Group: IT2-2308
+Student ID: 37841
+Course: DevOps
