@@ -8,3 +8,7 @@ private.txt
 .env
 *.log
 .env
+
+__pycache__/
+*.pyc
+response.txt
