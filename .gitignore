@@ -6,3 +6,5 @@ private.txt
 .DS_Store
 *.log
 .env
+*.log
+.env
