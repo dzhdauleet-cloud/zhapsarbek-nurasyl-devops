@@ -1,0 +1,6 @@
+logs/
+backup/
+private.txt
+*.tmp
+*.bak
+.DS_Store
