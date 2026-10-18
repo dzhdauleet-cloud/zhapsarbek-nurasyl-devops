@@ -6,7 +6,7 @@ pipeline {
         STUDENT_SURNAME = 'Zhapsarbek'
         STUDENT_GROUP = 'IT2-2308'
         STUDENT_ID = '37841'
-        PATH+DOCKER = '/Users/nurasylzapsarbek/.docker/bin'
+        PATH = "/Users/nurasylzapsarbek/.docker/bin:${env.PATH}"
     }
 
     stages {
