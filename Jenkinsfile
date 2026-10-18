@@ -53,7 +53,7 @@ pipeline {
                       -e STUDENT_ID \
                       zhapsarbek-nurasyl-devops
 
-                    curl --retry 10 --retry-connrefused \
+                    curl --retry 15 --retry-all-errors \
                       --retry-delay 1 -fsS \
                       http://localhost:8082/ > response.txt
 
